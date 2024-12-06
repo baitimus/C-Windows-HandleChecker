@@ -33,3 +33,20 @@ This tool allows you to detect and display handles that other processes hold to 
 
 ```text
 Enter target process ID: [Your Process ID]
+
+
+
+
+
+Enter target process ID: 1234
+
+Handle 5678 from process 4321 is referencing PID 1234
+Process Details:
+Name: target_process.exe
+PID: 4321
+Path: C:\path\to\process\executable.exe
+Parent PID: 6789
+Thread Count: 12
+Handle Value: 5678
+Handle Access: 0x1F0003
+
