@@ -50,3 +50,5 @@ Thread Count: 12
 Handle Value: 5678
 Handle Access: 0x1F0003
 
+This version is now formatted with proper headings, code blocks, and markdown for easy reading and copying. Just paste it into your project’s `README.md` file, and you're good to go!
+
